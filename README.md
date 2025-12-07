@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Venom Banner">
+  <img src="https://graph.org/file/3405f19997d8dfc7adc7b-d2d85ef089ee45c17d.jpg" width="100%" alt="Venom Banner">
 </p>
 
 <h1 align="center">⋆ ѵεηοм ⋆ 🕸🇮🇳</h1>
@@ -12,7 +12,7 @@ A simple and fast Telegram Music Bot for voice chats.
 
 ## Features
 - Smooth audio playback  
-- Works in Telegram voice chat  
+- Works in Telegram voice chats  
 - Lightweight and easy to use  
 
 ---
